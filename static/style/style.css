@@ -7,7 +7,7 @@ html
 
 body
 { font: normal .80em 'trebuchet ms', arial, sans-serif;
-  background: #F0EFE2 url(background.png) repeat;
+  background: #f0efe6 url(background.png) repeat;
   color: #777;}
 
 p
@@ -19,7 +19,7 @@ img
 
 h1, h2, h3, h4, h5, h6 
 { font: normal 175% 'century gothic', arial, sans-serif;
-  color: #43423F;
+  color: #33322f;
   margin: 0 0 15px 0;
   padding: 15px 0 5px 0;}
 
@@ -144,7 +144,7 @@ ul#menu li a
   height: 37px;
   padding: 29px 26px 6px 26px;
   text-align: center;
-  color: #FFF;
+  color: rgb(255, 255, 255);
   text-transform: uppercase;
   text-decoration: none;
   background: transparent;} 
@@ -325,7 +325,7 @@ table tr td
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #ddd;}
+.dropdown-content a:hover {background-color: rgb(233, 233, 233);}
 
 .dropdown:hover .dropdown-content {display: block;}
 

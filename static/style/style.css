@@ -8,7 +8,7 @@ html
 body
 { font: normal .80em 'trebuchet ms', arial, sans-serif;
   background: #f0efe6 url(background.png) repeat;
-  color: #777;}
+  color: rgb(130, 128, 128);}
 
 p
 { padding: 0 0 20px 0;
@@ -19,7 +19,7 @@ img
 
 h1, h2, h3, h4, h5, h6 
 { font: normal 175% 'century gothic', arial, sans-serif;
-  color: #33322f;
+  color: #33322e;
   margin: 0 0 15px 0;
   padding: 15px 0 5px 0;}
 
@@ -39,7 +39,7 @@ h5, h6
   color: #000;}
 
 h6
-{ color: #362C20;}
+{ color: #392e20;}
 
 a, a:hover
 { outline: none;
@@ -110,12 +110,12 @@ ol li
 
 #logo_text h1, #logo_text h1 a, #logo_text h1 a:hover 
 { padding: 22px 0 0 0;
-  color: #FFF;
+  color: rgb(254, 246, 246);
   letter-spacing: 0.1em;
   text-decoration: none;}
 
 #logo_text h1 a .logo_colour
-{ color: #1293EE;}
+{ color: #0b8fed;}
 
 #logo_text h2
 { font-size: 100%;
@@ -151,7 +151,7 @@ ul#menu li a
 
 ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 { color: #FFF;
-  background: #0D66A5;}
+  background: #0a65a6;}
 
 #site_content
 { width: 837px;
@@ -218,7 +218,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
   text-decoration: underline;}
 
 .search
-{ color: #5D5D5D; 
+{ color: #686666; 
   border: 1px solid #BBB; 
   width: 134px; 
   padding: 4px; 
@@ -244,7 +244,7 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 { padding: 5px; 
   width: 299px; 
   font: 100% arial; 
-  border: 1px solid #E5E5DB; 
+  border: 1px solid #ebebdb; 
   background: #FFF; 
   color: #47433F;}
   
@@ -276,8 +276,8 @@ ul#menu li a:hover, ul#menu li.selected a, ul#menu li.selected a:hover
 .separator
 { width: 100%;
   height: 0;
-  border-top: 1px solid #D9D5CF;
-  border-bottom: 1px solid #FFF;
+  border-top: 1px solid #e2dcd3;
+  border-bottom: 1px solid rgb(254, 247, 247);
   margin: 0 0 20px 0;}
   
 table
